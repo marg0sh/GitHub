@@ -1,0 +1,10 @@
+ID
+Summary
+Description
+Actual result
+Expected result
+Attachments
+Priority
+Severity
+Status
+
