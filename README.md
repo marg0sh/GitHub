@@ -1,12 +1,12 @@
 ## GitHub. HW_2
 #### 1. На локальном репозитории сделать ветки для:  
-- Postman  
-- Jmeter  
-- CheckLists  
-- Bag Reports  
-- SQL  
-- Charles  
-- Mobile testing  
+-Postman  
+-Jmeter  
+-CheckLists  
+-Bag Reports  
+-SQL  
+-Charles  
+-Mobile testing  
   
 ```
 git clone https://github.com/marg0sh/GitHub.git
