@@ -98,7 +98,12 @@ git push -u origin CheckLists
 ```
   
 #### 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main    
-*Pull requests - CheckLists - Compare & pull request - Create pull request - Merge pull request - Confirm merge*  
+*Pull requests  
+CheckLists  
+Compare & pull request  
+Create pull request  
+Merge pull request  
+Confirm merge*  
 
 #### 10. Синхронизировать Внешнюю и Локальную ветки Main  
 ```
