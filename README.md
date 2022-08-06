@@ -18,7 +18,7 @@ git branch CheckLists
 git branch Jmeter
 git branch Mobile_Testing
 git branch Postman
-git branch SQL
+git branch SQL 
 ```
   
 #### 2. Запушить все ветки на внешний репозиторий  
